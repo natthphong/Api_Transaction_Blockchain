@@ -1,0 +1,4 @@
+# ignore ALL mod , sum
+*.mod
+
+*.sum
